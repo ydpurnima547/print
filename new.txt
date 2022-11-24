@@ -1,1 +1,12 @@
-hello how are you.
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Github Title</title>
+   </head>
+  <body>
+<h1>hello how are you?  </h1>
+  </body>
+</html>
